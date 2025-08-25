@@ -188,13 +188,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 👤 Author
-
-**Sebastian**
-- GitHub: [@YourGitHubUsername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com (optional)
-
 ## 🙏 Acknowledgments
 
 - American Electric Power (AEP) for the data
