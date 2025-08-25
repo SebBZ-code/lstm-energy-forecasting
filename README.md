@@ -44,7 +44,7 @@ This project implements a Long Short-Term Memory (LSTM) neural network to foreca
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/aep-energy-forecasting.git
+git clone https://github.com/SebBZ-code/aep-energy-forecasting.git
 cd aep-energy-forecasting
 ```
 
