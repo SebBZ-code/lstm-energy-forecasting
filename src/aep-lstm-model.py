@@ -65,7 +65,7 @@ print(f"Test:       X: {X_test.shape}, y: {y_test.shape}")
 # STEP 2: BUILD LSTM MODELS
 # ============================================
 
-def build_simple_lstm(input_shape, learning_rate=0.001):
+def build_simple_lstm(input_shape, learning_rate=0.001): # This is the best model for the data however 3 models were tested
     """Simple LSTM - start here"""
     model = keras.Sequential([
         # LSTM layer
