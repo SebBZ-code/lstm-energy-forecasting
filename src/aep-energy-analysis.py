@@ -1,7 +1,6 @@
 # aep_energy_analysis.py
 """
 AEP Energy Consumption Forecasting Project
-Complete starter code customized for your dataset
 """
 
 import pandas as pd
@@ -303,7 +302,7 @@ def main():
     print("="*60)
     
     # Load data - UPDATE THIS PATH
-    filepath = r'C:\Users\sebas\Documents\CODE\SebBZ-codesbz-ML-AI\sbz-ML-AI\LSTM Project\AEP_hourly.csv'
+    filepath = r'AEP_hourly.csv'
     df = load_aep_data(filepath)
     
     print("\n" + "="*60)
