@@ -60,6 +60,8 @@ streamlit run aep-streamlit-dashboard.py
 
 The dashboard will open in your browser at `http://localhost:8501`
 
+NOTE: in 'aep-energy-analysis.py' the filepath must be updated to match your filepath
+
 ## 📁 Project Structure
 
 ```
