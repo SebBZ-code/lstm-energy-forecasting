@@ -74,6 +74,7 @@ NOTE: in 'aep-energy-analysis.py' the filepath must be updated to match your fil
 │   ├── aep-energy-analysis.py      # EDA and feature engineering
 │   ├── aep-lstm-model.py          # Model training and evaluation
 │   └── aep-streamlit-dashboard.py  # Interactive web dashboard
+├── load_and_visualize.py           # Must be run before first run of dashboard
 ├── requirements.txt                # Python dependencies
 └── README.md                       # Project documentation
 ```
